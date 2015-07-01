@@ -2,4 +2,4 @@
 
 Warm theme with lots of reds.
 
-![screenshot](https://github.com/kcaulkins/warm-syntax/raw/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/kcaulkins/warm-syntax/master/screenshot.png)
